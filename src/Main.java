@@ -9,7 +9,6 @@ public class Main {
         new MiniFrame();
 
 
-
         // JFrame right into Main
         /*
         JFrame f = new JFrame();
