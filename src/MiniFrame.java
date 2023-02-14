@@ -1,6 +1,7 @@
 import javax.swing.*;
 import java.awt.Color;
 
+//Test
 public class MiniFrame extends JFrame {
 
     MiniFrame(){
